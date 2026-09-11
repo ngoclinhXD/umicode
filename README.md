@@ -1,4 +1,5 @@
-<img width="1000" height="300" alt="UmiCode" src="https://github.com/user-attachments/assets/15a1864a-2092-4848-9213-675990ff1d1e" />
+<img width="1000" height="300" alt="UmiCode" src="https://github.com/user-attachments/assets/2991f72b-8c84-4dac-b7f5-91ba4483ab64" />
+
 
 # UmiCode 
 ### VSCode but without tracking, and some cool things built-in
